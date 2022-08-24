@@ -1,0 +1,4 @@
+grafana-prod-0c4l: 172.17.0.4:3000
+nodered-prod-4k55: 172.17.0.5:1880
+grafana-prod-bjpa: 172.17.0.3:3001
+influxdb-prod-7fwm: 172.17.0.2:8086
